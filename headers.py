@@ -1,0 +1,17 @@
+headers = {
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'accept-language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7,uk;q=0.6',
+    'cache-control': 'max-age=0',
+    'cookie': '_octo=GH1.1.1663948342.1711128755; preferred_color_mode=dark; tz=Europe%2FKiev; _device_id=2af51542a45c9aba1576fd19d782042a; saved_user_sessions=124456152%3AA-uUoL2CCKC9Qny2AJJg4qA83GzF78vsCPAcyXdQCHGQaDKA; tz=Europe%2FKiev; color_mode=%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D; logged_in=no; _gh_sess=tKNqaZYpDvbbqAB%2FmDME1NFj%2FN1av%2FQM9ifnYPM2REDkuNM9H5AlCA5GmTggWpVbOXwD%2B7%2F4ZWr6aR8eZoKB2K%2BnPp6Rnr3YVRqXMar1oRN%2FdAlGyFlMgKR4dNnW%2BLiiY9AxMJMAx7k2Mncax8BLcrOxCoWzG6nK86NOytaizfZfDjyI1gtpVSokHzPRBCzp7bQamiWH%2BALF%2FZfnUZYEGcPXF1ccUWMTLkZhtx7UarwH0B031iVjFQtO6siEgGyGSMxmess0H05b06biqa8jPxim23hcIs%2F10fNzlR8TjKcCDjrD--quyz49uqZ%2B4pkmu3--AAVlxcEflGIL07Sgoj2yzA%3D%3D',
+    'if-none-match': 'W/"3a6393939be5815b2a0c8526ed0b2b95"',
+    'priority': 'u=0, i',
+    'sec-ch-ua': '"Chromium";v="124", "Google Chrome";v="124", "Not-A.Brand";v="99"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'same-origin',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+}
